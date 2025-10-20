@@ -4,7 +4,7 @@ import json
 # --- تنظیمات شما ---
 API_URL = "http://103.75.198.172:5005/Internal/arbitrage"
 BOT_TOKEN = "7435237309:AAEAXXkce1VU8Wk-NqxX1v6VKnSMaydbErs"
-CHAT_ID = "-1002964082215"
+CHAT_ID = "-1002684336789"
 TOPIC_ID = "228782"  # در API تلگرام به این 'message_thread_id' می‌گویند
 # --------------------
 
