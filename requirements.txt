@@ -1,0 +1,5 @@
+# requirements.txt
+mysql-connector-python
+python-telegram-bot
+pandas
+openpyxl
