@@ -19,7 +19,7 @@ DATABASE = {
 TELEGRAM = {
     # !!! هشدار امنیتی: توکن را به صورت عمومی به اشتراک نگذارید
     # توکنی که ارسال کردید را revoke و یک توکن جدید بسازید
-    "BOT_TOKEN": "YOUR_NEW_TELEGRAM_BOT_TOKEN_HERE", 
+    "BOT_TOKEN": "7620588620:AAG9J-XhMJUsEMZOD1mb4rjiU55uyfsmy9M", 
     
     # شناسه عددی اکانت تلگرام ادمین (خودتان)
     "ADMIN_CHAT_ID": 123456789 # <-- شناسه عددی خود را وارد کنید
@@ -31,4 +31,5 @@ TELEGRAM = {
 # فقط برای تنظیم سطح لاگ‌گیری
 BOT = {
     "LOG_LEVEL": logging.INFO
+
 }
